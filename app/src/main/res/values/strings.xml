@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SakuIsyarat2</string>
+    <string name="title_activity_about">About</string>
+    <string name="tentang_1">
+        "Kamus Bahasa Isyarat untuk Pemula\n\n"
+
+        "Kamu ini dibuat sebagai modal awal pada orang dengar yang ingin berinteraksi dengan Tuli pengguna bahasa isyarat jogjakarta."
+        "kamus berisi mengena kata-kata dasar dalam-dalam bahasa isyarat hasil suvery dari temen Tuli, yang bisa teman dengar gunakan dalam awal interaksi.\n"
+        "kamus ini hanya sebagai pengantar bagi teman dengar untuk belajar dan berinteraksi langsung dengan teman Tuli, bukan sebagai media pembelajaran keseluruhan bahasa isyarat Jogjakarta.\n"
+        "harapannya teman dengar dan teman Tuli bisa saling belajar dan terwujud lingkungan yang ramah perbedaan.\n\n"
+
+        "Bagaimana cara berinteraksi dengan Tuli ?\n\n"
+
+        "Ini adalah menjelaskan cara berinteraksi untuk Tuli, melalui menyentuhkan apapun yang cara dipanggil terkecuali tidak lempar atau lain, sikap sopan dan santun yang menyesuaikan budaya seperti kita. apabila ingin mengetahui belajar dunia budaya Tuli. Silahkan yang coba dibuka di bawah yang link. Teman Teman dengar dan Tuli saudara/i berharap apa kita bersama belajar, semoga bermanfaat ya.\n"
+        "https://www.youtube.com/watch?v=yjNaUKIjkA0"
+    </string>
+
+
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tentang">Tentang</string>
+    <string name="tentang">Tentang</string>
+    <string name="all_categories">All Categories</string>
+    <string name="pilihan_yang_beberapa_semua_katogeri_pembelajaran">Pilihan yang beberapa semua katogeri pembelajaran</string>
+</resources>

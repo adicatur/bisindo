@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sakuisyarat2">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_sakuisyarat"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Video_Waalaikumsalam"></activity>
+        <activity android:name=".Video_Halo" />
+        <activity android:name=".Video_Hai" />
+        <activity android:name=".Video_Assalamualaikum" />
+        <activity android:name=".Video_Apakabar" />
+        <activity android:name=".Video_Tidakbaik" />
+        <activity android:name=".Video_Terimakasih" />
+        <activity android:name=".Video_Sehat" />
+        <activity android:name=".Video_Samasama" />
+        <activity android:name=".Video_Sakit" />
+        <activity android:name=".Video_Rumah" />
+        <activity android:name=".Video_Perkenalan" />
+        <activity android:name=".Video_Nama" />
+        <activity android:name=".Video_Iloveyou" />
+        <activity android:name=".Video_Baik" />
+        <activity android:name=".Video_Asal" />
+        <activity android:name=".Video_Siapa" />
+        <activity android:name=".Video_Kenapa" />
+        <activity android:name=".Video_Kapan" />
+        <activity android:name=".Video_Dimana" />
+        <activity android:name=".Video_Bagaimana" />
+        <activity android:name=".Video_Apa" />
+        <activity android:name=".Video_Mereka" />
+        <activity android:name=".Video_Kita" />
+        <activity android:name=".Video_Kamu" />
+        <activity android:name=".Video_Kami" />
+        <activity android:name=".Video_Dia" />
+        <activity android:name=".Video_Aku" />
+        <activity android:name=".Video_Z" />
+        <activity android:name=".Video_Y" />
+        <activity android:name=".Video_X" />
+        <activity android:name=".Video_W" />
+        <activity android:name=".Video_V" />
+        <activity android:name=".Video_U" />
+        <activity android:name=".Video_T" />
+        <activity android:name=".Video_R" />
+        <activity android:name=".Video_S" />
+        <activity android:name=".Video_P" />
+        <activity android:name=".Video_O" />
+        <activity android:name=".Video_Q" />
+        <activity android:name=".Video_N" />
+        <activity android:name=".Video_M" />
+        <activity android:name=".Video_L" />
+        <activity android:name=".Video_K" />
+        <activity android:name=".Video_J" />
+        <activity android:name=".Video_I" />
+        <activity android:name=".Video_H" />
+        <activity android:name=".Video_G" />
+        <activity android:name=".Video_F" />
+        <activity android:name=".Video_E" />
+        <activity android:name=".Video_D" />
+        <activity android:name=".Video_C" />
+        <activity android:name=".Video_B" />
+        <activity android:name=".Video_A" />
+        <activity android:name=".Activity_Abjad" />
+        <activity android:name=".Activity_KataUmum" />
+        <activity android:name=".Activity_KataSapaan" />
+        <activity android:name=".Activity_KataGantiOrang" />
+        <activity android:name=".Activity_KataTanya" />
+        <activity
+            android:name=".tentang"
+            android:label="@string/title_activity_tentang"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Dashboard" />
+        <activity android:name=".splash_logo">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
